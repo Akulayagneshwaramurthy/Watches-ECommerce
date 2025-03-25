@@ -11,9 +11,9 @@ Form Styling: Well-structured input fields with user-friendly labels and buttons
 Navigation: Options for password recovery and new user registration.
 
 🖥️ Screenshots
-🔹 Login Page
+![Login Page](https://github.com/Akulayagneshwaramurthy/Watches-ECommerce/blob/master/Image-1.png?raw=true)
 
-🔹 Signup Page
+![SignUp Page](https://github.com/Akulayagneshwaramurthy/Watches-ECommerce/blob/master/Image-2.png?raw=true)
 
 📜 Technologies Used
 HTML5: Structure of the webpage.
@@ -50,21 +50,25 @@ CSS - Styling and layout design
 JavaScript - Adding interactive features (if applicable)
 
 📸 Screenshots
-🔹 Homepage
+![Home Page](https://github.com/Akulayagneshwaramurthy/Watches-ECommerce/blob/master/Image-3.png?raw=true)
 
-🔹 Product Listing
 
-🔹 Customer Reviews & Footer
+![Product List](https://github.com/Akulayagneshwaramurthy/Watches-ECommerce/blob/master/Image-4.png?raw=true)
+
+
+![Customer Reviews & Footer](https://github.com/Akulayagneshwaramurthy/Watches-ECommerce/blob/master/Image-5.png?raw=true)
+
 
 ⌚ Watches Ecommerce Website
 A simple Watches Ecommerce Website built using HTML & CSS to display a collection of premium watches with a sleek and elegant design.
 
 📸 Screenshots
-Home Page
 
-Products Page
+![Product Page](https://github.com/Akulayagneshwaramurthy/Watches-ECommerce/blob/master/Image-6.png?raw=true)
 
-Top Watches View All Page
+
+![Top Watches View All Page](https://github.com/Akulayagneshwaramurthy/Watches-ECommerce/blob/master/Image-7.png?raw=true)
+
 
 ✨ Features
 Responsive design using HTML & CSS
@@ -96,6 +100,8 @@ CSS for styling and layout
 This is the About Page of the Watches Ecommerce Website, designed using HTML & CSS with a stylish background and text overlay.
 
 📸 Screenshot
+![AboutUs Page](https://github.com/Akulayagneshwaramurthy/Watches-ECommerce/blob/master/Image-8.png?raw=true)
+
 
 🎨 Features
 Background Image Blur Effect
@@ -126,6 +132,7 @@ CSS - Styling and background effects
 This is the Add to Cart Page of the Watches Ecommerce Website, designed using HTML & CSS.
 
 📸 Screenshot
+![Add to Cart Page](https://github.com/Akulayagneshwaramurthy/Watches-ECommerce/blob/master/Image-9.png?raw=true)
 
 🎨 Features
 Minimalist UI with Message Display
